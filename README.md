@@ -1,0 +1,2 @@
+# yangbin
+just anther repository

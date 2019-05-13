@@ -1,0 +1,3 @@
+[2019-03-29 15:56:09,677][MainThread:1888][task_id:bank][bank.py:44][INFO][ yb 给 ybb 转账 200]
+[2019-03-29 15:56:34,154][MainThread:1888][task_id:bank][bank.py:65][INFO][您消费30]
+[2019-03-29 15:56:34,154][MainThread:1888][task_id:shopping][shopping.py:13][INFO][yb购买商品成功]
